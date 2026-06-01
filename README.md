@@ -1,4 +1,4 @@
-# drbergman-lab QuPath catalog
+# drbergman-lab catalog
 
 A QuPath [extension catalog](https://github.com/qupath/extension-catalog-model)
 listing the QuPath extensions published by drbergman-lab.
