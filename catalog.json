@@ -9,6 +9,13 @@
             "homepage": "https://github.com/drbergman-lab/biwt-jvm",
             "releases": [
                 {
+                    "name": "v0.5.0",
+                    "main_url": "https://github.com/drbergman-lab/biwt-jvm/releases/download/v0.5.0/qupath-extension-biwt-0.5.0-all.jar",
+                    "version_range": {
+                        "min": "v0.7.0"
+                    }
+                },
+                {
                     "name": "v0.4.0",
                     "main_url": "https://github.com/drbergman-lab/biwt-jvm/releases/download/v0.4.0/qupath-extension-biwt-0.4.0-all.jar",
                     "version_range": {
